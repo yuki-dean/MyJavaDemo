@@ -14,6 +14,9 @@
         <module>Protobuf</module>
         <module>KafkaDemo</module>
         <module>avro</module>
+        <module>spring-integration</module>
+        <module>SDK-demo</module>
+        <module>JvmDemo</module>
     </modules>
 
 
