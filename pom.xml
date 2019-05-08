@@ -17,6 +17,8 @@
         <module>spring-integration</module>
         <module>SDK-demo</module>
         <module>JvmDemo</module>
+        <module>Annotation</module>
+        <module>camel</module>
     </modules>
 
 
