@@ -19,6 +19,9 @@
         <module>JvmDemo</module>
         <module>Annotation</module>
         <module>camel</module>
+        <module>SpringBoot</module>
+        <module>Json</module>
+        <module>webservice</module>
     </modules>
 
 
