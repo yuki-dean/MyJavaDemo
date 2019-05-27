@@ -13,6 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>basicHttp</module>
+        <module>Cxf</module>
+        <module>TestStaxon</module>
     </modules>
 
 
